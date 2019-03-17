@@ -1,0 +1,14 @@
+package housecosting;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class HouseCostTest {
+
+	@Test
+	void testCostcalculaltion() {
+		fail("Not yet implemented");
+	}
+
+}

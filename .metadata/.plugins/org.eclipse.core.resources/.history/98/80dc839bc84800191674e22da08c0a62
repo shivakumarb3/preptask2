@@ -1,0 +1,9 @@
+package calculation;
+
+public class Calcy {
+	public int addition(int a,int b)
+	{
+		return a+b;
+	}
+
+}

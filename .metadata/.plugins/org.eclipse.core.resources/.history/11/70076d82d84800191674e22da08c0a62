@@ -1,0 +1,17 @@
+package housecosting;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class HouseCostTest {
+
+	@Test
+	void testCostcalculaltion() {
+		HouseCost h=new HouseCost();
+		int res=h.costcalculaltion("standard", 10);
+		assertEquals(1200*10,res);
+		
+	}
+
+}

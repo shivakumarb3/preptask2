@@ -1,0 +1,2 @@
+2019-03-17 20:31:28,903 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-17 20:41:35,110 [Worker-10] WARN  org.eclipse.jgit.util.FS_Win32 - null

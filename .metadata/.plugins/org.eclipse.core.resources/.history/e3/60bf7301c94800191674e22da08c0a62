@@ -1,0 +1,23 @@
+package calculation;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CalcyTest {
+
+	@Test
+	void testAddition() {
+		//fail("Not yet implemented");
+		Calcy c=new Calcy();
+		int res=c.addition(5, 6);
+		assertEquals(11,res);
+	}
+	@Test
+	void testSubraction() {
+		//fail("Not yet implemented");
+		Calcy c=new Calcy();
+		int res=c.subraction(5, 6);
+		assertEquals(-1,res);
+	}
+}

@@ -1,0 +1,14 @@
+package calculation;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CalcyTest {
+
+	@Test
+	void testAddition() {
+		fail("Not yet implemented");
+	}
+
+}
